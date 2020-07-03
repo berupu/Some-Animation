@@ -12,12 +12,13 @@
 		A509BAD024A10E5500A71429 /* RaoundImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A509BACF24A10E5500A71429 /* RaoundImage.swift */; };
 		A5187607249FB6710029D418 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5187606249FB6710029D418 /* AppDelegate.swift */; };
 		A5187609249FB6710029D418 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5187608249FB6710029D418 /* SceneDelegate.swift */; };
-		A518760B249FB6710029D418 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A518760A249FB6710029D418 /* ViewController.swift */; };
 		A518760E249FB6710029D418 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A518760C249FB6710029D418 /* Main.storyboard */; };
 		A5187610249FB6720029D418 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A518760F249FB6720029D418 /* Assets.xcassets */; };
 		A5187613249FB6720029D418 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5187611249FB6720029D418 /* LaunchScreen.storyboard */; };
 		A520376B24A26FDD00CEC732 /* TransitionAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A520376A24A26FDD00CEC732 /* TransitionAnimationViewController.swift */; };
 		A542018C24A0BB8E0089BC19 /* RoundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A542018B24A0BB8E0089BC19 /* RoundView.swift */; };
+		A574607024AED845008C9CB1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A574606F24AED845008C9CB1 /* ViewController.swift */; };
+		A574607224AED92C008C9CB1 /* GestureRecognizerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A574607124AED92C008C9CB1 /* GestureRecognizerViewController.swift */; };
 		A5D6710824A253B300CC0E73 /* SpringAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5D6710724A253B300CC0E73 /* SpringAnimationViewController.swift */; };
 		A5ED7EC824A4FBCA0014FAAF /* SnowDropViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ED7EC724A4FBCA0014FAAF /* SnowDropViewController.swift */; };
 /* End PBXBuildFile section */
@@ -26,16 +27,19 @@
 		A509BACB24A0FD8A00A71429 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		A509BACD24A0FF6D00A71429 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		A509BACF24A10E5500A71429 /* RaoundImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaoundImage.swift; sourceTree = "<group>"; };
-		A5187603249FB6710029D418 /* Menu Button Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Menu Button Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5187603249FB6710029D418 /* MyWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5187606249FB6710029D418 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5187608249FB6710029D418 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A518760A249FB6710029D418 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A518760D249FB6710029D418 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A518760F249FB6720029D418 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5187612249FB6720029D418 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5187614249FB6720029D418 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A520376A24A26FDD00CEC732 /* TransitionAnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionAnimationViewController.swift; sourceTree = "<group>"; };
 		A542018B24A0BB8E0089BC19 /* RoundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundView.swift; sourceTree = "<group>"; };
+		A574606D24AED6B6008C9CB1 /* chomp.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = chomp.caf; sourceTree = "<group>"; };
+		A574606E24AED6BD008C9CB1 /* hehehe.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = hehehe.caf; sourceTree = "<group>"; };
+		A574606F24AED845008C9CB1 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A574607124AED92C008C9CB1 /* GestureRecognizerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureRecognizerViewController.swift; sourceTree = "<group>"; };
 		A5D6710724A253B300CC0E73 /* SpringAnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpringAnimationViewController.swift; sourceTree = "<group>"; };
 		A5ED7EC724A4FBCA0014FAAF /* SnowDropViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnowDropViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -62,7 +66,7 @@
 		A5187604249FB6710029D418 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A5187603249FB6710029D418 /* Menu Button Animation.app */,
+				A5187603249FB6710029D418 /* MyWork.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -72,28 +76,39 @@
 			children = (
 				A5187606249FB6710029D418 /* AppDelegate.swift */,
 				A5187608249FB6710029D418 /* SceneDelegate.swift */,
-				A518760A249FB6710029D418 /* ViewController.swift */,
-				A509BACD24A0FF6D00A71429 /* SecondViewController.swift */,
-				A5D6710724A253B300CC0E73 /* SpringAnimationViewController.swift */,
-				A520376A24A26FDD00CEC732 /* TransitionAnimationViewController.swift */,
-				A5ED7EC724A4FBCA0014FAAF /* SnowDropViewController.swift */,
+				A574606F24AED845008C9CB1 /* ViewController.swift */,
+				A574607124AED92C008C9CB1 /* GestureRecognizerViewController.swift */,
+				A54CEE2224ABA99100293198 /* Other Animation */,
 				A518760C249FB6710029D418 /* Main.storyboard */,
 				A509BACF24A10E5500A71429 /* RaoundImage.swift */,
 				A542018B24A0BB8E0089BC19 /* RoundView.swift */,
 				A509BACB24A0FD8A00A71429 /* RoundButton.swift */,
 				A518760F249FB6720029D418 /* Assets.xcassets */,
+				A574606D24AED6B6008C9CB1 /* chomp.caf */,
+				A574606E24AED6BD008C9CB1 /* hehehe.caf */,
 				A5187611249FB6720029D418 /* LaunchScreen.storyboard */,
 				A5187614249FB6720029D418 /* Info.plist */,
 			);
 			path = "Menu Button Animation";
 			sourceTree = "<group>";
 		};
+		A54CEE2224ABA99100293198 /* Other Animation */ = {
+			isa = PBXGroup;
+			children = (
+				A509BACD24A0FF6D00A71429 /* SecondViewController.swift */,
+				A5D6710724A253B300CC0E73 /* SpringAnimationViewController.swift */,
+				A520376A24A26FDD00CEC732 /* TransitionAnimationViewController.swift */,
+				A5ED7EC724A4FBCA0014FAAF /* SnowDropViewController.swift */,
+			);
+			path = "Other Animation";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A5187602249FB6710029D418 /* Menu Button Animation */ = {
+		A5187602249FB6710029D418 /* MyWork */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A5187617249FB6720029D418 /* Build configuration list for PBXNativeTarget "Menu Button Animation" */;
+			buildConfigurationList = A5187617249FB6720029D418 /* Build configuration list for PBXNativeTarget "MyWork" */;
 			buildPhases = (
 				A51875FF249FB6710029D418 /* Sources */,
 				A5187600249FB6710029D418 /* Frameworks */,
@@ -103,9 +118,9 @@
 			);
 			dependencies = (
 			);
-			name = "Menu Button Animation";
+			name = MyWork;
 			productName = "Menu Button Animation";
-			productReference = A5187603249FB6710029D418 /* Menu Button Animation.app */;
+			productReference = A5187603249FB6710029D418 /* MyWork.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -123,7 +138,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A51875FE249FB6710029D418 /* Build configuration list for PBXProject "Menu Button Animation" */;
+			buildConfigurationList = A51875FE249FB6710029D418 /* Build configuration list for PBXProject "MyWork" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -136,7 +151,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A5187602249FB6710029D418 /* Menu Button Animation */,
+				A5187602249FB6710029D418 /* MyWork */,
 			);
 		};
 /* End PBXProject section */
@@ -159,15 +174,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A574607024AED845008C9CB1 /* ViewController.swift in Sources */,
 				A520376B24A26FDD00CEC732 /* TransitionAnimationViewController.swift in Sources */,
 				A5D6710824A253B300CC0E73 /* SpringAnimationViewController.swift in Sources */,
 				A509BACE24A0FF6D00A71429 /* SecondViewController.swift in Sources */,
-				A518760B249FB6710029D418 /* ViewController.swift in Sources */,
 				A5ED7EC824A4FBCA0014FAAF /* SnowDropViewController.swift in Sources */,
 				A509BACC24A0FD8A00A71429 /* RoundButton.swift in Sources */,
 				A509BAD024A10E5500A71429 /* RaoundImage.swift in Sources */,
 				A542018C24A0BB8E0089BC19 /* RoundView.swift in Sources */,
 				A5187607249FB6710029D418 /* AppDelegate.swift in Sources */,
+				A574607224AED92C008C9CB1 /* GestureRecognizerViewController.swift in Sources */,
 				A5187609249FB6710029D418 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -319,7 +335,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.berupu.Menu-Button-Animation";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MyWork;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -336,7 +352,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.berupu.Menu-Button-Animation";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = MyWork;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -345,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A51875FE249FB6710029D418 /* Build configuration list for PBXProject "Menu Button Animation" */ = {
+		A51875FE249FB6710029D418 /* Build configuration list for PBXProject "MyWork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A5187615249FB6720029D418 /* Debug */,
@@ -354,7 +370,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A5187617249FB6720029D418 /* Build configuration list for PBXNativeTarget "Menu Button Animation" */ = {
+		A5187617249FB6720029D418 /* Build configuration list for PBXNativeTarget "MyWork" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A5187618249FB6720029D418 /* Debug */,
